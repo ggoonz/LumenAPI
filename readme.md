@@ -8,7 +8,3 @@ Esta API es sobre Estudiantes, Profesores y Cursos.
 - Un curso puede ser tomado por muchos estudiantes
 - Un profesor dicta puede dictar muchos cursos
 - Un curso es dictado por un profesor
-
-## Dirección oficial del curso
-
-[Crea una API RESTful con Lumen Y Homestead de Laravel](https://www.udemy.com/api-restful-lumen-homestead-laravel/?couponCode=git).
