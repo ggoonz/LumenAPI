@@ -11,6 +11,7 @@
 |
 */
 
+
 $app->get('/profesores', 'ProfesorController@index');
 $app->post('/profesores', 'ProfesorController@store');
 $app->get('/profesores/{profesores}', 'ProfesorController@show');
